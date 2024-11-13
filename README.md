@@ -1,8 +1,12 @@
-# React + Vite
+# MOVIE OTT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://github.com/VishnuVarunz/movie-ott/blob/main/src/assets/img1.jpeg?raw=true" alt="vyuha" width="800" height="500">
+<img src="https://github.com/VishnuVarunz/movie-ott/blob/main/src/assets/img2.jpeg?raw=true" alt="vyuha" width="800" height="500">
+<img src="https://github.com/VishnuVarunz/movie-ott/blob/main/src/assets/img3.jpeg?raw=true" alt="vyuha" width="800" height="500">
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/VishnuVarunz/movie-ott.git
+cd movie-ott
+npm i
+npm run dev
+```
